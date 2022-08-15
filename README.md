@@ -34,5 +34,6 @@ Currently improving my backend skills:
 ![](https://img.shields.io/badge/Code-Node.JS-%23aa88ff?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/Code-Express-%23aa88ff?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/Code-MongoDB-%23aa88ff?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/Code-Typescript-%23aa88ff?style=for-the-badge&logo=typescript)
 
 ## ![GitHub followers](https://img.shields.io/github/followers/filipexxborba?style=social)
