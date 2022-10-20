@@ -27,7 +27,7 @@ Currently improving my backend skills:
 ![](https://img.shields.io/badge/Code-HTML5-%23aa88ff?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS3-%23aa88ff?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Code-JavaScript-%23aa88ff?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-ReactJS-%23aa88ff?style=for-the-badge&logo=reactjs)
+![](https://img.shields.io/badge/Code-ReactJS-%23aa88ff?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Code-Typescript-%23aa88ff?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/Code-Node.JS-%23aa88ff?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/Code-Express-%23aa88ff?style=for-the-badge&logo=express)
