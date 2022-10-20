@@ -6,7 +6,7 @@ I currently work for a company in my city as an ~~IT Analist~~, however, I alway
 Since 2020 I have lived and breathed web development. I look forward to the opportunity to immerse myself in many different jobs and projects, helping to make this world a little better through design and code. 😉
 
 ## 👨‍💻 What I'm focusing on 
-Currently improving my backend skills:
+Currently improving my front-end skills:
 
 1. NextJS
 2. React (life-cycle)
