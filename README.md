@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Filipe Borba 
 
 
-I currently work for a company in my city as an ~~IT Analist~~, however, I always try to get involved on the outside with webdev projects.. I'm based in Paraná, Brasil.
+I currently work for a company in my city as an IT Analist, however, I always try to get involved on the outside with webdev projects.. I'm based in Paraná, Brasil.
 
 Since 2020 I have lived and breathed web development. I look forward to the opportunity to immerse myself in many different jobs and projects, helping to make this world a little better through design and code. 😉
 
