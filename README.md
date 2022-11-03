@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Filipe Borba 
 
-I’m a IT Analist. Currently I'm working as a Web and Mobile Developer At [Tecnomyl BR](https://www.linkedin.com/company/tecnomyl-brasil). 🚀
+I’m a IT Analist. Currently working as a Web and Mobile Developer At [Tecnomyl BR](https://www.linkedin.com/company/tecnomyl-brasil). 🚀
 
 ## 👨‍💻 What I'm focusing on 
 Currently improving my front-end skills:
