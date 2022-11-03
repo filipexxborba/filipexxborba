@@ -9,7 +9,7 @@ Currently improving my front-end skills:
 2. React (life-cycle)
 3. UI/UX
 
-## ✔ My Tools
+## ✔ My currently Tools
 
 1. 🌎 Front-end Web with ReactJS 
 2. 📲 Front-end Mobile with React Native  
@@ -19,7 +19,7 @@ Currently improving my front-end skills:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipexxborba&show_icons=true&theme=dark)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 ![](https://img.shields.io/badge/Editor-VS%20Code-%23aa88ff?style=for-the-badge&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Code-HTML5-%23aa88ff?style=for-the-badge&logo=html5)
