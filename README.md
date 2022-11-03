@@ -37,4 +37,4 @@ Currently improving my front-end skills:
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/borba-filipe/)](https://www.linkedin.com/in/borba-filipe/) 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:borba.filipe00@gmail.com)](mailto:borba.filipe00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-borba.filipe00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:borba.filipe00@gmail.com)](mailto:borba.filipe00@gmail.com)
