@@ -1,9 +1,6 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Filipe Borba 
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Filipe Borba 
 
-
-I currently work for a company in my city as an IT Analist, however, I always try to get involved on the outside with webdev projects.. I'm based in Paraná, Brasil.
-
-Since 2020 I have lived and breathed web development. I look forward to the opportunity to immerse myself in many different jobs and projects, helping to make this world a little better through design and code. 😉
+I’m a IT Analist. Currently I'm working as a Web and Mobile Developer At [Tecnomyl BR](https://www.linkedin.com/company/tecnomyl-brasil). 🚀
 
 ## 👨‍💻 What I'm focusing on 
 Currently improving my front-end skills:
@@ -12,11 +9,12 @@ Currently improving my front-end skills:
 2. React (life-cycle)
 3. UI/UX
 
-## ✔ My Goals
+## ✔ My Tools
 
-- [x] Learn HTML, CSS and JS;
-- [x] Encode a landing page for a real customer;
-- [x] Make a living with programming.
+1. 🌎 Front-end Web with ReactJS 
+2. 📲 Front-end Mobile with React Native  
+3. 📡 Back-end with Nodejs  
+4. 🛠️ Typescript
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipexxborba&show_icons=true&theme=dark)
@@ -35,3 +33,8 @@ Currently improving my front-end skills:
 
 
 ## ![GitHub followers](https://img.shields.io/github/followers/filipexxborba?style=social)
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/borba-filipe/)](https://www.linkedin.com/in/borba-filipe/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:borba.filipe00@gmail.com)](mailto:borba.filipe00@gmail.com)
