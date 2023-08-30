@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Filipe Borba 
 
-I’m a IT Analist. Currently working as a Web and Mobile Developer At [Tecnomyl BR](https://www.linkedin.com/company/tecnomyl-brasil). 🚀
+I’m a FullStack Developer. Currently working as a Web and Mobile Developer At [H2O Innovation](https://www.linkedin.com/company/h2o-innovation-hub/). 🚀
 
 ## 👨‍💻 What I'm focusing on 
 Currently improving my front-end skills:
@@ -11,9 +11,9 @@ Currently improving my front-end skills:
 
 ## ✔ My currently Tools
 
-1. 🌎 Front-end Web with ReactJS 
+1. 🌎 Front-end Web with NextJS
 2. 📲 Front-end Mobile with React Native  
-3. 📡 Back-end with Nodejs  
+3. 📡 Back-end with NestJS
 4. 🛠️ Typescript
 
 
